@@ -1,0 +1,3 @@
+googleapiclient
+youtube_transcript_api
+openai
